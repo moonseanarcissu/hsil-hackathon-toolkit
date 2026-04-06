@@ -1,0 +1,56 @@
+HSIL Hackathon 2026 — Claude Code Toolkit
+Copyright 2026 簡承哲 (Cheng-Che Chien)
+聯合通科技 Cloud Communication Technology Ltd.
+
+本工具包在 Claude (Anthropic) 的協助下開發。
+
+============================================================
+公共領域方法論引用 (Public Domain Methodologies)
+============================================================
+
+本工具包使用以下公共領域的商業與設計方法論：
+- Porter's Five Forces (Michael Porter, 1979)
+- SWOT Analysis
+- Business Model Canvas (Alexander Osterwalder, 2010)
+- Design Thinking / How Might We (IDEO)
+- TAM/SAM/SOM Market Sizing
+- User Persona & Empathy Map (UX methodology)
+- Crazy 8's Ideation (Google Ventures Design Sprint)
+
+這些方法論為廣泛使用的公共知識，不屬於任何特定授權。
+
+============================================================
+推薦的外部工具致謝 (Recommended External Tools)
+============================================================
+
+本工具包的 README 中推薦以下開源工具（僅為推薦連結，
+未納入其程式碼）：
+
+- Healthcare MCP Server
+  Copyright (c) 2025 Forrest Babola
+  Licensed under MIT License
+  https://github.com/Cicatriiz/healthcare-mcp-public
+
+- PubMed MCP Server
+  Copyright (c) cyanheads
+  Licensed under Apache License 2.0
+  https://github.com/cyanheads/pubmed-mcp-server
+
+- Mermaid MCP
+  Copyright (c) hustcc
+  Licensed under MIT License
+  https://github.com/hustcc/mcp-mermaid
+
+- AntV MCP Server Chart
+  Copyright (c) Ant Group / AntV
+  Licensed under MIT License
+  https://github.com/antvis/mcp-server-chart
+
+============================================================
+HSIL Hackathon 評分標準
+============================================================
+
+評分標準內容引用自 HSIL Hackathon 2026 官方網站：
+https://hsilhackathontaiwan.com/
+主辦單位：Harvard T.H. Chan School of Public Health —
+Health Systems Innovation Lab (HSIL)
