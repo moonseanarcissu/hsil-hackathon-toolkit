@@ -25,22 +25,19 @@ If the user hasn't provided pitch content, ask them to describe (如果用戶尚
 ## Scoring Rubric / 評分標準 (20 Points Total / 總分 20 分)
 
 Score each criterion as 0, 1, or 2 (每項評 0、1 或 2 分):
-- **0** = 未涉及或根本性缺陷 (Not addressed or fundamentally flawed)
-- **1** = 部分涉及，需大幅改善 (Partially addressed, needs significant improvement)
-- **2** = 充分涉及，清晰且有說服力 (Well addressed, clear and convincing)
 
-| # | 評審項目 | English | 關鍵問題 |
-|---|---------|---------|---------|
-| 1 | 問題定義與方案框架 | Problem Definition & Solution Framing | 問題是否清楚定義？解方框架是否合理？範圍是否適當？ |
-| 2 | 價值主張與創新 | Value Proposition & Innovation | 價值主張是否明確？真正的創新在哪？AI 如何實質增值？ |
-| 3 | 市場機會 | Opportunity | 是否有數據支持的市場規模（TAM/SAM/SOM）？成長趨勢是否可信？ |
-| 4 | 競爭分析 | Competitive Landscape | 是否辨識出競爭者？差異化是否可防禦？護城河是什麼？ |
-| 5 | 商業模式 | Business Model | 誰付錢？多少錢？單位經濟是否可行？是否可持續？ |
-| 6 | 市場策略 | Go-to-Market Strategy | 第一批用戶是誰？獲客渠道？時程表？ |
-| 7 | 資金需求 | Ask | 金額是否合理？里程碑是否明確？資金用途是否具體？ |
-| 8 | 團隊 | Team | 團隊是否具備合適技能？缺少什麼？能否執行？ |
-| 9 | 簡報 | Presentation | 簡報是否清晰、有條理、有說服力？是否符合 3 分鐘限制？ |
-| 10 | 問答 | Q&A | （在下方模擬 Q&A 後評分） |
+| # | 評審項目 | 0 分 | 1 分 | 2 分 |
+|---|---------|------|------|------|
+| 1 | **Problem Definition & Solution Framing** 問題定義與方案框架 | 定義不清楚 | 有定義，但衡量或框架不夠好 | 定義清楚、有衡量指標、框架有效 |
+| 2 | **Value Proposition & Innovation** 價值主張與創新 | 不具創新性或不清楚 | 有一些創新，但價值主張不清楚或薄弱 | 明確的創新解方，具有令人信服的獨特價值主張 |
+| 3 | **Opportunity** 市場機會 | 沒有清楚的市場或使用者區隔 | 有辨識市場，但未嘗試驗證 | 目標市場定義清楚，有需求證據或驗證嘗試 |
+| 4 | **Competitive Landscape** 競爭分析 | 不了解競爭環境 | 承認有競爭者，但差異化有限 | 清楚了解競爭環境，有強而有力的定位與差異化 |
+| 5 | **Business Model** 商業模式 | 沒有提出可行的模式 | 有描述商業模式，但缺乏細節或可行性 | 清晰、可行、且具潛在可擴展性的商業模式 |
+| 6 | **Go-to-Market Strategy** 市場策略 | 沒有清楚的計畫觸及用戶/客戶/監管者/受益者 | 有計畫輪廓但缺乏深度或具體性 | 清晰、可執行的 GTM 策略，對應價值主張、商業模式與策略定位 |
+| 7 | **Ask** 資金需求 | 沒有提出需求 | 對資金需求、里程碑和條款的理解不夠具體 | 對資金需求、里程碑/價值轉折點和條款有令人信服的理解 |
+| 8 | **Team** 團隊 | 沒有相關專業或角色不清 | 技能與角色部分吻合 | 強大的團隊，技能互補且角色分工清楚 |
+| 9 | **Presentation** 簡報 | 組織混亂或不清楚 | 大致清楚但在傳達關鍵想法上有缺口 | 清晰、自信、令人信服的簡報 |
+| 10 | **Q&A** 問答 | 無法有效回答問題 | 部分回答模糊或不一致 | 能回答問題，回應令人信服 |
 
 ## Output Format / 輸出格式
 

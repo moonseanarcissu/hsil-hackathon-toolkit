@@ -177,19 +177,19 @@ claude
 
 ## Scoring Criteria / 評分標準
 
-| # | 項目 | English | 分數 |
-|---|------|---------|------|
-| 1 | 問題定義與方案框架 | Problem Definition & Solution Framing | /2 |
-| 2 | 價值主張與創新 | Value Proposition & Innovation | /2 |
-| 3 | 市場機會 | Opportunity | /2 |
-| 4 | 競爭分析 | Competitive Landscape | /2 |
-| 5 | 商業模式 | Business Model | /2 |
-| 6 | 市場策略 | Go-to-Market Strategy | /2 |
-| 7 | 資金需求 | Ask | /2 |
-| 8 | 團隊 | Team | /2 |
-| 9 | 簡報 | Presentation | /2 |
-| 10 | 問答 | Q&A | /2 |
-| | **總分** | | **/20** |
+| # | 項目 | 0 分 | 1 分 | 2 分 |
+|---|------|------|------|------|
+| 1 | Problem Definition & Solution Framing | 定義不清楚 | 有定義但框架不夠好 | 定義清楚、有衡量、框架有效 |
+| 2 | Value Proposition & Innovation | 不具創新或不清楚 | 有創新但價值主張薄弱 | 創新解方 + 獨特價值主張 |
+| 3 | Opportunity | 無清楚市場 | 有辨識但未驗證 | 市場定義清楚 + 需求證據 |
+| 4 | Competitive Landscape | 不了解競爭 | 有競爭意識但差異化有限 | 清楚競爭 + 強定位差異化 |
+| 5 | Business Model | 無可行模式 | 有模式但缺細節 | 清晰可行可擴展 |
+| 6 | GTM Strategy | 無計畫 | 有輪廓但缺深度 | 清晰可執行對應策略 |
+| 7 | Ask | 無需求 | 理解不夠具體 | 資金+里程碑+條款令人信服 |
+| 8 | Team | 無專業或角色不清 | 技能角色部分吻合 | 技能互補角色清楚 |
+| 9 | Presentation | 混亂不清 | 大致清楚有缺口 | 清晰自信令人信服 |
+| 10 | Q&A | 無法有效回答 | 部分模糊不一致 | 回應令人信服 |
+| | **總分** | | | **/20** |
 
 ---
 
